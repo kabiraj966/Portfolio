@@ -159,7 +159,7 @@ Here are some of the websites I’ve contributed to through SEO, digital marketi
 
 If you're looking for someone who can **grow your traffic, improve rankings, and deliver real SEO results**, let's connect.
 
-📧 kabirajk333@gmail.com  
+📧 Mail: kabirajk333@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kabiraj-kafle-977ab9159/
 
 ---
