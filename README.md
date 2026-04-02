@@ -28,6 +28,50 @@ I combine **technical SEO, content strategy, and data analysis** to help busines
 
 ---
 
+## 💼 Experience
+
+### **SEO Analyst**  
+**Zeptosky (Australia)**  
+📅 May 2024 – Jan 2026  
+
+- Improved rankings using targeted SEO strategies  
+- Conducted keyword & competitor analysis  
+- Built backlinks and optimized content  
+- Worked with developers on technical SEO  
+- Delivered performance reports  
+
+---
+
+### **Digital Marketing Intern**  
+Weblink Nepal IT Institute Pvt. Ltd.  
+📅 Feb 2024 – May 2024  
+
+- Managed social media platforms  
+- Assisted in campaign execution  
+- Supported SEO and traffic growth  
+
+---
+
+### **Web Development Intern**  
+Six Sigma Inc. Pvt. Ltd.  
+📅 Feb 2023 – May 2023  
+
+- Built responsive websites  
+- Collaborated on development projects  
+
+---
+
+## 🎓 Education
+
+🎓 Bachelor in Information Management (BIM)  
+NIST College, Nepal  
+📅 2024 | CGPA: 3.33  
+
+🎓 +2 (Computer Science)  
+Chanakya College  
+📅 2018 | GPA: 2.77  
+
+---
 ## 📊 SEO Projects & Case Studies
 
 ### 🔹 Project 1: Organic Traffic Growth (Zeptosky)
@@ -112,51 +156,6 @@ Rank the business on top of Google search results for local intent keywords, esp
 - Canva  
 - Excel / Google Sheets  
 - JIRA & Confluence  
-
----
-
-## 💼 Experience
-
-### **SEO Analyst**  
-**Zeptosky (Australia)**  
-📅 May 2024 – Jan 2026  
-
-- Improved rankings using targeted SEO strategies  
-- Conducted keyword & competitor analysis  
-- Built backlinks and optimized content  
-- Worked with developers on technical SEO  
-- Delivered performance reports  
-
----
-
-### **Digital Marketing Intern**  
-Weblink Nepal IT Institute Pvt. Ltd.  
-📅 Feb 2024 – May 2024  
-
-- Managed social media platforms  
-- Assisted in campaign execution  
-- Supported SEO and traffic growth  
-
----
-
-### **Web Development Intern**  
-Six Sigma Inc. Pvt. Ltd.  
-📅 Feb 2023 – May 2023  
-
-- Built responsive websites  
-- Collaborated on development projects  
-
----
-
-## 🎓 Education
-
-🎓 Bachelor in Information Management (BIM)  
-NIST College, Nepal  
-📅 2024 | CGPA: 3.33  
-
-🎓 +2 (Computer Science)  
-Chanakya College  
-📅 2018 | GPA: 2.77  
 
 ---
 
