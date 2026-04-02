@@ -86,8 +86,6 @@ I combine **technical SEO, content strategy, and data analysis** to help busines
 **Objective:**  
 Rank the business on top of Google search results for local intent keywords, especially **“printing company in Moorebank”**.
 
-https://github.com/kabiraj966/Portfolio/blob/main/Screenshot%202026-04-02%20145255.png?raw=true
-
 **Actions Taken:**
 - Optimized Google Business Profile (GMB) with accurate business details and keywords  
 - Implemented local keyword targeting across website pages  
