@@ -30,7 +30,7 @@ I specialize in data-driven strategies and enjoy collaborating with cross-functi
 
 ## 💼 Professional Experience
 
-### **SEO Analyst**  
+### **SEO Analyst**  https://zeptosky.com.au/
 **Zeptosky, Australia**  
 📅 May 2024 – Jan 2026  
 
