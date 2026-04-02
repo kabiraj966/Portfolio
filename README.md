@@ -78,6 +78,30 @@ I combine **technical SEO, content strategy, and data analysis** to help busines
 
 ---
 
+### 🔹 Project 4: Local SEO Ranking Success (DPS Design)
+
+**Website:** https://dpsdesign.com.au/  
+**Focus:** Local SEO (Moorebank, Sydney)  
+
+**Objective:**  
+Rank the business on top of Google search results for local intent keywords, especially **“printing company in Moorebank”**.
+
+**Actions Taken:**
+- Optimized Google Business Profile (GMB) with accurate business details and keywords  
+- Implemented local keyword targeting across website pages  
+- Improved on-page SEO (meta titles, descriptions, headings with location intent)  
+- Built local citations and ensured NAP consistency (Name, Address, Phone)  
+- Created location-focused content to strengthen local relevance  
+- Acquired quality backlinks to improve domain authority  
+
+**Results:**
+- 🥇 Ranked **#1 on Google** for the keyword *“printing company in Moorebank”*  
+- 📍 Significantly improved visibility in local search results  
+- 📈 Increased local inquiries and customer engagement  
+- ⭐ Strengthened overall Google Business Profile performance  
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - Google Analytics  
@@ -151,7 +175,8 @@ Here are some of the websites I’ve contributed to through SEO, digital marketi
 - 🔗 https://stoneybark.com.au/  
 - 🔗 https://a1groupservices.com.au/  
 - 🔗 https://www.trekkingadvisor.com/  
-- 🔗 https://www.namastecargonepal.com/  
+- 🔗 https://www.namastecargonepal.com/
+- 🔗 https://www.everest-trekking.com/
 
 > *Worked on improving SEO performance, optimizing content, fixing technical issues, and enhancing overall digital visibility across these platforms.*
 
